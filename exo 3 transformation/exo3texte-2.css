@@ -1,0 +1,6 @@
+div[name] { background-color: #9cf;}
+div[class="titre"] { background-color: #9cf;}
+div[nameˆ="de"] { background-color: #9cf;}
+div[title$="x"] { background-color: #9cf;}
+div[title*="roi"] {background-color: #9cf;}
+div[name="un"][class="titre"]{background-color: #9cf;}
